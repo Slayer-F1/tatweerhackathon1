@@ -1,0 +1,6 @@
+# Local tooling / preview — not part of the submission
+.claude/
+.DS_Store
+Thumbs.db
+*.log
+node_modules/

@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+  <title>Najm Al Qua'a · Best Stargazing Tonight</title>
+  <meta name="description" content="Find the best night under the UAE's darkest sky at Al Qua'a — a live, offline-first stargazing score, then stay with a local camel-farm host." />
+  <meta name="theme-color" content="#060814" />
+  <link rel="manifest" href="manifest.webmanifest" />
+  <link rel="icon" href="assets/icon.svg" type="image/svg+xml" />
+  <link rel="apple-touch-icon" href="assets/icon.svg" />
+  <link rel="preconnect" href="https://api.open-meteo.com" />
+  <!-- Open Graph -->
+  <meta property="og:title" content="Najm Al Qua'a — Best Stargazing Tonight" />
+  <meta property="og:description" content="Live stargazing conditions for the UAE's darkest sky + camel-farm host stays." />
+  <meta property="og:type" content="website" />
+  <link rel="stylesheet" href="css/styles.css" />
+</head>
+<body>
+  <div id="app">
+    <noscript>Najm Al Qua'a needs JavaScript to compute live stargazing conditions.</noscript>
+  </div>
+
+  <!-- Libraries (vendored locally so the app works offline) -->
+  <script src="js/lib/suncalc.js"></script>
+  <!-- App config + data + logic -->
+  <script src="js/config.js"></script>
+  <script src="js/hosts-data.js"></script>
+  <script src="js/i18n.js"></script>
+  <script src="js/astro.js"></script>
+  <script src="js/api.js"></script>
+  <script src="js/app.js"></script>
+</body>
+</html>

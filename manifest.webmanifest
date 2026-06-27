@@ -1,0 +1,16 @@
+{
+  "name": "Najm Al Qua'a — Best Stargazing Tonight",
+  "short_name": "Najm Al Qua'a",
+  "description": "Live, offline-first stargazing conditions for Al Qua'a (the UAE's darkest sky) plus local camel-farm host stays.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#060814",
+  "theme_color": "#060814",
+  "lang": "en",
+  "dir": "auto",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
