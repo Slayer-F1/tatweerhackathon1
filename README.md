@@ -5,7 +5,7 @@
 
 **Tatweer Hackathon · Challenge 5 (Free choice) · Built for Al Qua'a, Al Ain, UAE**
 
-🔗 **Live app:** _‹add your GitHub Pages / Vercel URL here after deploy›_
+🔗 **Live app:** https://slayer-f1.github.io/tatweerhackathon1/
 🎬 **Demo video (≈2 min):** _‹add link here›_
 📍 **Default site pin:** Al Qua'a "Milky Way Spot" — 23.6046°N, 54.7503°E
 
